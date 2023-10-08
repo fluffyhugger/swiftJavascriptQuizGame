@@ -16,7 +16,7 @@ This repository contains a simple True/False quiz game implemented in Swift for 
 
 
 ### After choosen true answer
-<img src="picture/pic1"/>
+<img src="picture/pic1.png"/>
 
 ### After choosen false answer
-<img src="picture/pic2"/>
+<img src="picture/pic2.png"/>

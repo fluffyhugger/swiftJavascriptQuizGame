@@ -12,3 +12,11 @@ This repository contains a simple True/False quiz game implemented in Swift for 
 2. 
    git clone https://github.com/fluffyhugger/swiftJStest
 
+### Game Preview
+
+
+### After choosen true answer
+<img src="picture/pic1"/>
+
+### After choosen false answer
+<img src="picture/pic2"/>

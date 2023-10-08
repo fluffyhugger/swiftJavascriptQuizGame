@@ -10,5 +10,5 @@ This repository contains a simple True/False quiz game implemented in Swift for 
 
 1. Clone this repository to your local machine:
 2. 
-   git clone https://github.com/fluffyhugger/quiz-game-swift.git
+   git clone https://github.com/fluffyhugger/swiftJStest
 
